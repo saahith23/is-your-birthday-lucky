@@ -2,6 +2,11 @@
     padding:1rem 4rem;
     background-color:aqua;
   }
-  .bodies{
+  body{
     background-color:azure;
+  }
+  #check-number-button{
+    border-radius: 1rem;
+    background-color: aqua;
+    margin-top: 1rem;
   }
